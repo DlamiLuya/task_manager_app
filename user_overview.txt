@@ -1,0 +1,51 @@
+Total number of users :     7
+Total number of tasks :     5
+----------------------------------------------------------
+admin's Stats
+Number of tasks: 2
+Percentage of tasks assigned:    40.0%
+Percentage of tasks complete:    50.0%
+Percentage of tasks incomplete:  0.0%
+Percentage of overdue Tasks:     0.0%
+----------------------------------------------------------
+luyanda's Stats
+Number of tasks: 2
+Percentage of tasks assigned:    40.0%
+Percentage of tasks complete:    0.0%
+Percentage of tasks incomplete:  100.0%
+Percentage of overdue Tasks:     20.0%
+----------------------------------------------------------
+nokwanda's Stats
+Number of tasks: 0
+Percentage of tasks assigned:    0%
+Percentage of tasks complete:   0%
+Percentage of tasks incomplete: 0%
+Percentage of overdue Tasks:    0%
+----------------------------------------------------------
+vuyolwethu's Stats
+Number of tasks: 0
+Percentage of tasks assigned:    0%
+Percentage of tasks complete:   0%
+Percentage of tasks incomplete: 0%
+Percentage of overdue Tasks:    0%
+----------------------------------------------------------
+ngcebo's Stats
+Number of tasks: 0
+Percentage of tasks assigned:    0%
+Percentage of tasks complete:   0%
+Percentage of tasks incomplete: 0%
+Percentage of overdue Tasks:    0%
+----------------------------------------------------------
+monvula's Stats
+Number of tasks: 0
+Percentage of tasks assigned:    0%
+Percentage of tasks complete:   0%
+Percentage of tasks incomplete: 0%
+Percentage of overdue Tasks:    0%
+----------------------------------------------------------
+george's Stats
+Number of tasks: 1
+Percentage of tasks assigned:    20.0%
+Percentage of tasks complete:    0.0%
+Percentage of tasks incomplete:  0.0%
+Percentage of overdue Tasks:     0.0%
